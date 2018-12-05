@@ -1,1 +1,1 @@
-# my-jquery
+# jQuery
